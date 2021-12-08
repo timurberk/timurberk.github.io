@@ -38,6 +38,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 * https://jekyll-themes.com/phantom/
 * https://jekyll-themes.com/sleek/
 * https://jekyll-themes.com/stylish-portfolio/
+* https://jekyllthemes.io/theme/landing-page-theme
 
 ### Support or Contact
 
