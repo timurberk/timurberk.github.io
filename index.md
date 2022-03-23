@@ -34,11 +34,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 #### Themes that I like
 
-* https://jekyll-themes.com/single-paged/
-* https://jekyll-themes.com/phantom/
-* https://jekyll-themes.com/sleek/
-* https://jekyll-themes.com/stylish-portfolio/
-* https://jekyllthemes.io/theme/landing-page-theme
+* [https://jekyll-themes.com/single-paged/](https://jekyll-themes.com/single-paged/) 
+* [https://jekyll-themes.com/phantom/](https://jekyll-themes.com/phantom/)
+* [https://jekyll-themes.com/sleek/](https://jekyll-themes.com/sleek/)
+* [https://jekyll-themes.com/stylish-portfolio/](https://jekyll-themes.com/stylish-portfolio/)
+* [https://jekyllthemes.io/theme/landing-page-theme](https://jekyllthemes.io/theme/landing-page-theme)
 
 ### Support or Contact
 
