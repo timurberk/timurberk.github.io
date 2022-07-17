@@ -34,12 +34,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 #### Themes that I like
 
+##### jekyll-themes.com
+* [https://jekyll-themes.com/free/](https://jekyll-themes.com/free/)
 * [https://jekyll-themes.com/single-paged/](https://jekyll-themes.com/single-paged/) 
 * [https://jekyll-themes.com/phantom/](https://jekyll-themes.com/phantom/)
 * [https://jekyll-themes.com/sleek/](https://jekyll-themes.com/sleek/)
 * [https://jekyll-themes.com/stylish-portfolio/](https://jekyll-themes.com/stylish-portfolio/)
+
+##### jekyllthemes.io
+* [https://jekyllthemes.io/free](https://jekyllthemes.io/free)
 * [https://jekyllthemes.io/theme/landing-page-theme](https://jekyllthemes.io/theme/landing-page-theme)
+* [https://jekyllthemes.io/theme/pintereso](https://jekyllthemes.io/theme/pintereso)
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+[Jekyll Docs](https://jekyllrb.com/docs/)
