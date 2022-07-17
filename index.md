@@ -40,6 +40,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 * [https://jekyll-themes.com/phantom/](https://jekyll-themes.com/phantom/)
 * [https://jekyll-themes.com/sleek/](https://jekyll-themes.com/sleek/)
 * [https://jekyll-themes.com/stylish-portfolio/](https://jekyll-themes.com/stylish-portfolio/)
+* [https://jekyll-themes.com/some/](https://jekyll-themes.com/some/) [Github](https://github.com/Stavrospanakakis/jekyll-cv) (CV)
 
 ##### jekyllthemes.io
 * [https://jekyllthemes.io/free](https://jekyllthemes.io/free)
